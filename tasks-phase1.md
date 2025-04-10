@@ -12,8 +12,12 @@ IMPORTANT ❗ ❗ ❗ Please remember to destroy all the resources after each wo
 
 3. In boostrap/variables.tf add your emails to variable "budget_channels".
 
+    ![budget_chanels.jpg](doc/figures/budget_chanels.jpg)
+
 4. From avaialble Github Actions select and run destroy on main branch.
-   
+
+   ![destroy-r.png](doc/figures/destroy-r.png)
+
 5. Create new git branch and:
     1. Modify tasks-phase1.md file.
     
